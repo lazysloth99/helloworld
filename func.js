@@ -13,3 +13,5 @@ let result = add(number1,number2);
 
 // display the result
 console.log("The sum is " + result);
+
+// comment func
